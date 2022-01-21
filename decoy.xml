@@ -1,0 +1,31 @@
+<Decoys>
+	<Name>SBIServer</Name>
+	<Domain>sbi.local</Domain>
+	<HostName>SBI</HostName>
+	<Site>MumbaiHQ</Site>
+	<User>
+		<User1>Jack</User1>
+		<Last1>Robinson</Last1>
+		<Pass1>Password@123</Pass1>
+		<User2>Bill</User2>
+		<Last2>Jackson</Last2>
+		<Pass2>Password@123</Pass2>
+		<User3>Edward</User3>
+		<Last3>Franklin</Last3>
+		<Pass3>Password@123</Pass3>
+	</User>
+	<Computer>
+		<Computer1>Sales</Computer1>
+		<os1>Windows 7</os1>
+		<Computer2>Office</Computer2>
+		<os2>Windows XP</os2>
+		<Computer3>IT</Computer3>
+		<os3>Windows 10</os3>
+	</Computer>
+	<Group>
+		<Group1>Admin</Group1>
+		<Pass1>Password@123</Pass1>
+	</Group>
+	<URL>https://sbi.com</URL>
+	<subDomain>https://netbanking.sbi.com</subDomain>
+</Decoys>
