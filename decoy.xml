@@ -1,0 +1,80 @@
+<Decoys>
+	<Name>SBIServer</Name>
+	<Domain>sbi.com</Domain>
+	<HostName>admin</HostName>
+	<Site>MumbaiHQ</Site>
+	<User>
+		<User1>Nilam</User1>
+		<Last1>Sheth</Last1>
+		<Pass1>Password@123</Pass1>
+
+		<User2>Amitabh</User2>
+		<Last2>Nazareth</Last2>
+		<Pass2>Password@123</Pass2>
+		
+		<User3>Diya</User3>
+		<Last3>Rajagopal</Last3>
+		<Pass3>Password@123</Pass3>
+		
+		<User4>Dipa</User4>
+		<Last4>Bhavsar</Last4>
+		<Pass4>Password@123</Pass4>
+		
+		<User5>Yash</User5>
+		<Last5>Bhargava</Last5>
+		<Pass5>Password@123</Pass5>
+		
+		<User6>pranay</User6>
+		<Last6>rana</Last6>
+		<Pass6>Password@123</Pass6>
+		
+		<User7>surya</User7>
+		<Last7>nagar</Last7>
+		<Pass7>Password@123</Pass7>
+		
+		<User8>alia</User8>
+		<Last8>rastogi</Last8>
+		<Pass8>Password@123</Pass8>
+	
+		<User9>jai</User9>
+		<Last9>raghavan</Last9>
+		<Pass9>Password@123</Pass9>
+
+		<User10>anik</User10>
+		<Last10>bal</Last10>
+		<Pass10>Password@123</Pass10>
+	</User>
+	<Computer>
+		<Computer1>SBI01031</Computer1>
+		<os1>Windows 10</os1>
+		<Computer2>SBI0931</Computer2>
+		<os2>Windows 10</os2>
+		<Computer3>SBI0932</Computer3>
+		<os3>Windows 10</os3>
+		<Computer4>SBI0732</Computer4>
+		<os4>Windows 10</os4>
+		<Computer5>SBI0632</Computer5>
+		<os5>Windows 10</os5>
+		<Computer6>SBI0435</Computer6>
+		<os6>Ubuntu 20.04</os6>
+		<Computer7>SBI01133</Computer7>
+		<os7>Ubuntu 20.04</os7>
+		<Computer8>SBI0431</Computer8>
+		<os8>Ubuntu 20.04</os8>
+		<Computer9>SBI0831</Computer9>
+		<os9>Ubuntu 20.04</os9>
+		<Computer10>SBI01132</Computer10>
+		<os10>Ubuntu 20.04</os10>
+	</Computer>
+	<Group>
+		<Group1>Consulting</Group1>
+		<Group2>Engineering</Group2>
+		<Group3>Finance & Marketing</Group3>
+		<Group4>Human Resource</Group4>
+		<Group5>Planning</Group5>
+		<Group6>IT</Group6>
+		<Group7>Sales</Group7>
+	</Group>
+	<URL>https://sbi.com</URL>
+	<subDomain>https://netbanking.sbi.com</subDomain>
+</Decoys>
