@@ -1,3 +1,0 @@
-User-Agent: *
-Disallow:
-Sitemap: https://sbi.co.in/webfiles/uploads/files_2122/sitemap.xml
